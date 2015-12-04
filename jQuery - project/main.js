@@ -1,4 +1,22 @@
 
+//
+//$(document).ready(function() {
+//
+//        $('.meu').on('click',function() {
+//
+//            $( ".meu" ).addClass( "m" );
+//            $( ".meu li").show(400)
+//        })
+//
+//
+//
+//
+//});
+
+
+
+
+//
 //$(document).ready(function() {
 //
 //        $('.meu').on('click',function() {
@@ -15,7 +33,7 @@
 //
 //
 //});
-//
+
 
 
 

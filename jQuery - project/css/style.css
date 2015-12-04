@@ -165,13 +165,19 @@ nav li a {
     margin:50px;
 }
 
-.notVis{
+.meu{
    border:2px solid red;
     width: 40px;
-    height: 20px;
+    height: 50px;
+
 }
-.no{
+
+.meu li{
+    display:none;
+}
+.m{
     border:2px solid red;
     width: 40px;
-    height: 60px;
+    height: 150px;
+
 }
